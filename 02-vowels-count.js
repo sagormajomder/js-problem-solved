@@ -1,3 +1,4 @@
+'use strict';
 // Write a function that counts how many vowels (a, e, i, o, u) are in a given string.
 
 // Example:
@@ -5,7 +6,6 @@
 // Input: "programming"
 // Output: 3
 
-'use strict';
 function countVowels(str) {
   return str.split('').reduce((acc, val) => {
     const letter = val.toLowerCase();

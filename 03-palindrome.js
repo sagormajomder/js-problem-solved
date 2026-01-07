@@ -1,3 +1,4 @@
+'use strict';
 // Write a function that checks if a string is a palindrome (reads the same forward and backward).
 
 // Example:

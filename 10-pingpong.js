@@ -1,3 +1,4 @@
+'use strict';
 // Write a function that prints numbers from 1 to 20.
 
 // Example:
